@@ -8,6 +8,8 @@
 ## Intro
 **thirteen** is a primitive (for now) Terminal UI MySQL monitor.
 
+![Screenshot](screenshots/1.png)
+
 ## Installation
 To install awsm, simply copy/paste the following command into your terminal:
 ```
